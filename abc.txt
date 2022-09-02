@@ -3,3 +3,4 @@ I also like C.
 I like git.
 c1 made changes
 c2 made changes
+c1 is happy
